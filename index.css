@@ -31,9 +31,7 @@ a{
     color: #fff;
 }
 
-.degrade{
-    background: linear-gradient(to right, #6495ED, #4169E1 );
-}
+
 
 header{
     text-align: center;
@@ -51,6 +49,15 @@ header h1{
     font-size: 2em;
     margin-bottom: 10px;
     color: #4360d4;
+}
+
+footer{
+    text-align: center;
+    margin: 30px;
+}
+
+.degrade{
+    background: linear-gradient(to right, #6495ED, #4169E1 );
 }
 
 section.botoes-links{
@@ -79,11 +86,6 @@ a.link button:hover{
 
 a.link i{
     font-size: 1.5em;
-}
-
-footer{
-    text-align: center;
-    margin: 30px;
 }
 
 footer a.link-footer{
